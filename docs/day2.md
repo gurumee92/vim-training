@@ -49,4 +49,4 @@ $ ls
 example.txt example2.txt
 ```
 
-둥릐 내용은 같습니다.
+둘의 내용은 같습니다.
