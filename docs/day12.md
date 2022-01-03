@@ -2,8 +2,15 @@
 
 > 책 "손에 잡히는 VIM"의 5장 내용을 공부한 내용입니다. 이 문서는 5.2절만 정리합니다.
 
+## 다양한 파일 저장법
+
+`VIM`에서 파일을 저장하는 방법은 다음과 같습니다.
+
+* `:w <filename>`: 파일을 저장합니다.
+* `:sav <filename>`: 현재 파일을 다른 이름으로 저장합니다. 
+* `:up`: update 사항이 있을 경우에 저장합니다.
+* `:x`: 업데이트 있는 경우에 저장하고 종료합니다.
 
 
-[예제](https://github.com/gurumee92/vim-practice/blob/main/src/day12/ex01.txt)
-![01](./images/day12/01.png)
+
 
