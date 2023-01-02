@@ -1,4 +1,0 @@
-1361, Marc Herold, M, 45, MP2
-1315, Rina Suzuki, F, 36, MP1
-1600, Robert Kim, M, 32, CP3
-1601, Steven Choi, M, 34. CP3

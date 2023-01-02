@@ -1,4 +1,0 @@
-1304, Yona Yahav, M, 42, MP1, ex02@example.com
-1294, Kebin Robinson, M, 41, CP1, ex01@example.com
-1601, Steven Choi, M, 34. CP3, ex04@example.com
-1314, TW Yoon, F, 46, CP1, ex03@example.com
